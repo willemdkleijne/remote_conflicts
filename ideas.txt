@@ -4,3 +4,4 @@ Idea 1: Redesign the homepage.
 Idea 2: Add a contact form.
 Idea 3: Improve mobile layout.
 Idea 4: Create a blog section.
+Idea 5: Send a monthly newsletter.
